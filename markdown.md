@@ -8,7 +8,7 @@ ci troviamo sul divano davanti alla TV.
 - premiamo il tasto home sul telecomando 
 - con le freccette ci spostiamo nel menu delle applicazioni 
 - avviamo l'applicazione netflix 
-- FINTANTO CHE non siamo loggati 
+- SE ? non siamo loggati 
     - inseriamo email e password  
     - premiamo su 'login'
 - ALTRIMENTI (siamo loggati)
@@ -37,17 +37,17 @@ ci troviamo sul divano davanti alla TV.
         - cosa voglio vedere? 
         - SE ? voglio vedere un film 
             - scorriamo tra i generi FINCHE non ne troviamo uno
-                - clicchiamo sul genere che ci piace 
-                    - scorriamo tra i film FINCHE non ne troviamo uno 
-                        - SE ? ci piace 
-                            - SE l'ho gia visto 
-                                - SE non voglio rivederlo 
-                                    - continuo a scorrerec 
-                                - ALTRIMENTI voglio rivederlo 
-                                    - lo riguardo 
-                            - ALTRIMENTI 
-                                - lo guardo  
-                        - ALTRIMENTI continuiamo a scorrere 
+            - clicchiamo sul genere che ci piace 
+                - scorriamo tra i film FINCHE non ne troviamo uno 
+                    - SE ? ci piace 
+                        - SE l'ho gia visto 
+                            - SE non voglio rivederlo 
+                                - continuo a scorrerec 
+                            - ALTRIMENTI voglio rivederlo 
+                                - lo riguardo 
+                        - ALTRIMENTI 
+                            - lo guardo  
+                    - ALTRIMENTI continuiamo a scorrere 
 
         - ALTRIMENTI SE voglio vedere una serie tv corta 
             - scorriamo tra i generi FINCHE non ne troviamo uno
@@ -86,16 +86,16 @@ ci troviamo sul divano davanti alla TV.
         - vado nella sezione delle serie tv corte 
         - scorriamo tra i generi FINCHE non ne troviamo uno
             - clicchiamo sul genere che ci piace 
-                - scorriamo tra le serie tv FINCHE non ne troviamo una 
-                    - SE ? ci piace 
-                        - SE l'ho gia visto 
-                            - SE non voglio rivederlo 
-                                - continuo a scorrerec 
-                            - ALTRIMENTI voglio rivederlo 
-                                - lo riguardo 
-                        - ALTRIMENTI 
-                            - lo guardo  
-                    - ALTRIMENTI continuiamo a scorrere 
+            - scorriamo tra le serie tv FINCHE non ne troviamo una 
+                - SE ? ci piace 
+                    - SE l'ho gia visto 
+                        - SE non voglio rivederlo 
+                            - continuo a scorrerec 
+                        - ALTRIMENTI voglio rivederlo 
+                            - lo riguardo 
+                    - ALTRIMENTI 
+                        - lo guardo  
+                - ALTRIMENTI continuiamo a scorrere 
 
     
 
